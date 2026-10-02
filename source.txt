@@ -1,0 +1,17 @@
+var:str hello = "Hello world";
+
+var:int result = 3+4;
+var:int other = result -1;
+var:int doble = result * 2;
+var:int mitad = doble / 4;
+var:float precio = 7.5 * 2;
+var:float parte = precio / 4;
+var:int combo = 2 + 3 * 4;
+printv result;
+printv other;
+printv doble;
+printv mitad;
+printv precio;
+printv parte;
+printv combo;
+printv hello;
